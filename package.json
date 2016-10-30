@@ -1,0 +1,21 @@
+{
+  "name": "jatichiri",
+  "description": "Learn JavaScript design patterns by adventuring around in the terminal.",
+  "version": "1.0",
+  "repository": {
+    "url": "https://github.com/rodrimus/yatichiri.git"
+  },
+  "author": "Rodrimus",
+  "bin": {
+    "yatichiri": "./bin/yatichiri"
+  },
+  "main": "./index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "promise": "^7.1.1",
+    "diff": "^1.2.1",
+    "workshopper-adventure": "^5.0.0"
+  },
+  "license": "MIT"
+}
