@@ -5,7 +5,7 @@
 > _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
 
 ## Get help
-Having issues with javascripting? Get help troubleshooting in the [nodeschool discussions repo](http://github.com/nodeschool/discussions), or on gitter:
+Having issues with yatichiri? Get help troubleshooting in the [nodeschool discussions repo](http://github.com/nodeschool/discussions), or on gitter:
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
