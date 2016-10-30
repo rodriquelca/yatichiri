@@ -1,4 +1,4 @@
-# JAVASCRIPTING
+# YATICHIRI
 
 > Learn JavaScript design patterns by adventuring around in the terminal.  
 
